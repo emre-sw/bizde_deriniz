@@ -1,6 +1,6 @@
 # Usecases Diagram
 
-## ?? Kullanýcý Ýþlemleri (YUNUS EMRE KESELÝ)
+## Kullanýcý Ýþlemleri (YUNUS EMRE KESELÝ)
 
 ### 1. Kayýt Olma
 
@@ -52,7 +52,7 @@
 
 ---
 
-## ?? Kullanýcý Bilgileri (YUNUS ÝNAL)
+## Kullanýcý Bilgileri (YUNUS ÝNAL)
 
 ### 1. Adres Ekleme
 
@@ -93,7 +93,7 @@
 
 ---
 
-## ?? Sipariþ Süreci (YUNUS ÝNAL)
+## Sipariþ Süreci (YUNUS ÝNAL)
 
 ### 1. Sepete Ekleme
 
@@ -140,7 +140,7 @@
 
 ---
 
-## ?? Arama ve Sýralama Use Cases (YUNUS EMRE KESELÝ)
+## Arama ve Sýralama Use Cases (YUNUS EMRE KESELÝ)
 
 ### 1. Yemek Çeþidine Göre Filtreleme
 
@@ -190,7 +190,7 @@
 
 ---
 
-## ?? Bildirimler Use Cases (YUNUS EMRE KESELÝ)
+## Bildirimler Use Cases (YUNUS EMRE KESELÝ)
 
 ### 1. Restoraný Favorilere Ekleme
 
