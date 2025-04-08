@@ -18,6 +18,9 @@ import (
 )
 
 func AuthServer(r *gin.Engine, config *configs.Config) {
+	// Apply CORS middleware
+	r.Use(CORSMiddleware())
+
 	// connect to db
 	conn := db.ConnectDB(config)
 
